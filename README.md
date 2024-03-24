@@ -42,8 +42,8 @@ O projeto Java - Sistema Transacional visa oferecer uma solução para gerenciam
 ### 1.1 Tecnologias Utilizadas
 
 - Java 17
-- Spring Boot 2.6.3
-- Hibernate 6.4.4
+- Spring Boot 
+- Hibernate 
 - H2 Database
 - HTML
 
